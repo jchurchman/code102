@@ -19,3 +19,29 @@ Homework:
 Keyboard Shortcuts for Atom
 "Ctrl + \" -- Show/Hide navigation pane
 "Ctrl + Shift + T" -- Opens Settings tab
+
+
+Puncuation in Javascript
+/ forward slash
+\ back slash
+. dot or period
+: colon
+; semicolon
+( ) parens or parentheses
+[] brackets
+<> angle brackets
+{} curly braces or curly brackets
+| pipe
+% percent or modulo
+'' single quotes
+"" double quotes
+`` back tick
+~ tilde
+
+Check out https://typing.io/
+
+in Javascript: quotes around something mean it's a "string"
+
+REPL = Read Evaluate Print Loop
+
+All lines in Javascript should end with a semicolon
