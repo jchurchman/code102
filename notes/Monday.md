@@ -14,3 +14,8 @@ Git workflow:
 Homework:
   Javascript lessons on codeacademy
   read/perform "Mastering Markdown"
+
+
+Keyboard Shortcuts for Atom
+"Ctrl + \" -- Show/Hide navigation pane
+"Ctrl + Shift + T" -- Opens Settings tab
