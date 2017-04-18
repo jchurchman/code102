@@ -10,11 +10,12 @@ Git workflow:
   Git Status - Current Status
   Git add <FILENAME> - add file to qeue
   Git commit -m "COMMENT ON FILE"
-  git add -p -patches file
+  git add -p -patches file instead of git commit
 
 Homework:
   Javascript lessons on codeacademy
   read/perform "Mastering Markdown"
+  Read "How to write a git commit comment"
 
 
 Keyboard Shortcuts for Atom
