@@ -16,7 +16,6 @@
 ~ Tilde
 
 
-
 ##Shortcuts
 
 Control + Backtick hides Terminal while in Atom
