@@ -11,6 +11,7 @@ Git workflow:
   Git add <FILENAME> - add file to qeue
   Git commit -m "COMMENT ON FILE"
   git add -p -patches file instead of git commit
+  git checkout -b <BRANCH NAME> - makes a branch repo
 
 Homework:
   Javascript lessons on codeacademy
